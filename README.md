@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @etimbuk9
 - 👀 I’m interested in pythom, matlab, Flutter and dart
 - 🌱 I’m currently learning Flutter and Web frameworks with Python
-- 💞️ I’m looking to collaborate on Web projects in python
+- 💞️ I’m looking to collaborate on Web projects in python - django
 - 📫 How to reach me abrahametimbuk@gmail.com
 
 <!---
