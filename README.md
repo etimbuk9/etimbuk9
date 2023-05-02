@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @etimbuk9
-- 👀 I’m interested in pythom, matlab, Flutter and dart
+- 👀 I’m interested in Python, MATLAB, Flutter and Dart
 - 🌱 I’m currently learning Flutter and Web frameworks with Python
 - 💞️ I’m looking to collaborate on Web projects in python - django
 - 📫 How to reach me abrahametimbuk@gmail.com
